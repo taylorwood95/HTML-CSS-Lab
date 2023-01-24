@@ -1,0 +1,47 @@
+body > header  {background-color: dodgerblue;
+        color: white;
+        padding: 16px;x
+}
+
+footer {
+    background-color: dodgerblue;
+    text-align: center;
+    padding: 10px;
+}
+
+
+body > header > nav > ul > li > a {
+    color: white;
+    list-style: none;
+}
+nav > ul {
+    list-style: none;
+    color: dodgerblue;
+}
+
+main > p { width: 70%;
+    margin: auto;
+}
+
+
+main > header { width: 70%;
+    margin: auto;
+}
+
+main > section { width: 70%;
+        margin: auto;
+}
+
+main > section > form > textarea {
+    width: 100%;
+
+}
+
+
+main > section > form > button {
+    background-color: transparent;
+    position: relative;
+    left: 95%
+    
+}
+
